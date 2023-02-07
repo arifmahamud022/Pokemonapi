@@ -1,0 +1,32 @@
+
+.body{
+    
+    background: url(../public/Background.png) center center no-repeat;
+    width: 1356px;
+    height: 900px;
+    margin: -7px;
+    
+}
+
+.logo{
+   
+    margin-left: 550px;
+    padding-top: 30px;
+    
+    
+}
+
+  
+@media(max-width: 550px){
+    .body {
+        margin: -7px;
+        background: url(/_next/static/media/Background.7e46da7d.png) center center no-repeat;
+    }
+    .logo{
+   
+        margin-left: 507px;
+        padding-top: 60px;
+        
+        
+    }
+}
