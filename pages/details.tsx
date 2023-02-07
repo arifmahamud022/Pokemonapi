@@ -4,7 +4,7 @@ export default function details() {
     return(
         <>
         <div className="">
-        <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675619927/Left_awn1id.png" alt="" className={style.left} />
+        <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675619927/Left_awn1id.png" alt="image" className={style.left} />
         </div>
 
         <div className={style.maincontent}>
@@ -12,7 +12,7 @@ export default function details() {
         </div>
 
         <div className="">
-        <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675619927/Left_awn1id.png" alt="" className={style.rightimage} />
+        <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675619927/Left_awn1id.png" alt="image" className={style.rightimage} />
         </div>
         </>
     )

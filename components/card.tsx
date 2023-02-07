@@ -85,7 +85,7 @@ export default function card() {
                <h3 className={cardstyle.idd}>#0010</h3>
            </div>
            <div className={cardstyle.image}>
-               <img src={pokemon.image} alt="" />
+               <img src={pokemon.image} alt="image" />
            </div>
        </div>
        <div className={cardstyle.nametext}>
@@ -107,7 +107,7 @@ export default function card() {
     </div>
     <div className="texture">
     <div className={cardstyle.bottomside}>
-        <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675619927/Left_awn1id.png" alt="" className={cardstyle.left} />
+        <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675619927/Left_awn1id.png" alt="image" className={cardstyle.left} />
 
     </div>
     
@@ -117,7 +117,7 @@ export default function card() {
     </div>
 
     <div className={cardstyle.bottomsidee}>
-        <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675619927/Left_awn1id.png" alt="" className={cardstyle.leftt} />
+        <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675619927/Left_awn1id.png" alt="image" className={cardstyle.leftt} />
 
     </div>
 

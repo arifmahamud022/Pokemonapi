@@ -25,13 +25,13 @@ export default function textture () {
                         </div>
                         <div className="col-lg-6 ">
                             <div className={textstyle.imagee}>
-                            <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675624953/Image04_ijngbt.png" alt=""  />
+                            <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675624953/Image04_ijngbt.png" alt="image"  />
                             </div>
                         </div>
                     </div>
                      </div>
                     <div className="col-lg-4">
-                    <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675623728/Image03_kxxa2j.png" alt="" className={textstyle.imgee} />
+                    <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675623728/Image03_kxxa2j.png" alt="image" className={textstyle.imgee} />
 
                     </div>
                 </div>
@@ -43,7 +43,7 @@ export default function textture () {
                      </div>
                     <div className="col-lg-4 ">
                    <div className={textstyle.imageee}>
-                   <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675628528/Image02_us888g.png" alt="" />
+                   <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675628528/Image02_us888g.png" alt="image" />
                    </div>
 
                     </div>
@@ -65,7 +65,7 @@ export default function textture () {
                 <div className="row">
                 <div className="col-lg-4">
                    <div className={textstyle.secondpartimage}>
-                   <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675628748/Image05_glmlg9.png" alt="" />
+                   <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675628748/Image05_glmlg9.png" alt="image" />
 
                    </div>
                     </div>
@@ -78,7 +78,7 @@ export default function textture () {
                 <div className="row">
                 <div className="col-lg-4">
                    <div className={textstyle.secondpartimagee}>
-                   <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675628857/Image01_wlqosn.png" alt="" />
+                   <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675628857/Image01_wlqosn.png" alt="image" />
 
                    </div>
                     </div>

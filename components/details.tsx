@@ -6,7 +6,7 @@ export default function details () {
     return(
         <>
         <div className={detailstyle.logo}>
-            <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675584508/Logo_zbzm27.png" alt="" className={detailstyle.logostyle}/>
+            <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675584508/Logo_zbzm27.png" alt="image" className={detailstyle.logostyle}/>
         </div>
         <div className={detailstyle.content}>
             <div className={detailstyle.itema}>
@@ -46,7 +46,7 @@ export default function details () {
                 </div>
             <div className={detailstyle.itemb}>
                 <div className="image">
-                    <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675588973/ivysaur_nfkvzg.png" alt="" />
+                    <img src="https://res.cloudinary.com/dfwmknxqz/image/upload/v1675588973/ivysaur_nfkvzg.png" alt="image" />
                 </div>
             </div>
             <div className={detailstyle.itemc}>
